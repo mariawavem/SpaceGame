@@ -2,4 +2,4 @@
 
 Space shooter in Unity3D
 
-![Image alt](https://github.com/mariawavem/SpaceGame/main menu.bmp)
+![Main Menu](https://github.com/mariawavem/SpaceGame/main/main menu.bmp)
